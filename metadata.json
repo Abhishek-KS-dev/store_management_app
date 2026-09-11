@@ -1,0 +1,8 @@
+{
+  "name": "Remix SuperMart",
+  "description": "Modern responsive Supermarket Management Web App with Billing, Inventory, and Sales Reports",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
